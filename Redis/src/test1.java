@@ -17,4 +17,8 @@ public class test1 {
     public void scdev(){
         System.out.println("scdev");
     }
+    @Test
+    public void newsc(){
+        System.out.println("newsc");
+    }
 }
